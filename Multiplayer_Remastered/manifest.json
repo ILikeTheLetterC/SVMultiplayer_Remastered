@@ -1,0 +1,10 @@
+﻿{
+  "Name": "Multiplayer_Remastered",
+  "Author": "ILikeTheLetterC",
+  "Version": "1.0.0",
+  "Description": "A small mod that fixes some of the issues experienced while playing Co-op",
+  "UniqueID": "ILikeTheLetterC.Multiplayer_Remastered",
+  "EntryDll": "Multiplayer_Remastered.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
