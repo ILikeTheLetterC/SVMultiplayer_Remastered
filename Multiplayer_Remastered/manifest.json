@@ -6,5 +6,5 @@
   "UniqueID": "ILikeTheLetterC.Multiplayer_Remastered",
   "EntryDll": "Multiplayer_Remastered.dll",
   "MinimumApiVersion": "3.0.0",
-  "UpdateKeys": []
+  "UpdateKeys": [ "GitHub:ILikeTheLetterC/SVMultiplayer_Remastered" ]
 }
